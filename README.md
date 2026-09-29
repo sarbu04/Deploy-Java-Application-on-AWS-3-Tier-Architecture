@@ -356,15 +356,3 @@ Focused on:
 AWS • Linux • Kubernetes • Docker • Terraform • CI/CD • Monitoring
 
 ⭐ If you find this project useful, feel free to explore the repository.
-
-
-### Step 2 — Commit it
-
-At the bottom of GitHub:
-
-**Commit changes**
-
-Commit message:
-
-```text
-Add professional project documentation
